@@ -10,3 +10,6 @@ public class Addition {
 		System.out.println(x + " + " + y + " = " z);
 	}
 }
+/*
+ * code is ready!
+ * */
